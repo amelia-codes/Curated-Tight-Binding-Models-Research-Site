@@ -4,6 +4,8 @@
 
 ![A1 Dispersion Relation](https://github.com/user-attachments/assets/f0b13a1c-e676-4bd1-9fb4-49e8bcf205fa)
 
+![B2 Dispersion Relation](https://github.com/user-attachments/assets/9accc0be-7896-4958-8727-966b25e5d7a8)
+
 # citations
 
 https://www.semanticscholar.org/paper/Type-III-and-Tilted-Dirac-Cones-Emerging-from-Flat-Mili%C4%87evi%C4%87-Montambaux/38b2bab9af1d5a17dfd7279a962bf7883f5d587f
