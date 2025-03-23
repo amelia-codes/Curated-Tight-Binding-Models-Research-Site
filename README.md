@@ -1,11 +1,13 @@
 # Curated Tight Binding Models Research Site
 
-#D_6 Symmetry
+#D6 Symmetry
+
 ![Graphene Dispersion Relation](https://github.com/user-attachments/assets/79e3e6b8-a970-49d9-89a2-58d8a16f194a)
 
 ![A1 Dispersion Relation](https://github.com/user-attachments/assets/f0b13a1c-e676-4bd1-9fb4-49e8bcf205fa)
 
-#D_2 Symmetry
+#D2 Symmetry
+
 ![B1 Dispersion Relation](https://github.com/user-attachments/assets/ea63a715-88c2-4ec7-99b2-9bc45c3d184d)
 
 ![B2 Dispersion Relation](https://github.com/user-attachments/assets/9accc0be-7896-4958-8727-966b25e5d7a8)
