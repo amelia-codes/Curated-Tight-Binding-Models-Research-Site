@@ -2,7 +2,7 @@
 
 
 
-
+![Graphene Dispersion Relation](graphene.gif)
 
 
 
