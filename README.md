@@ -2,9 +2,8 @@
 
 
 
-![Graphene Dispersion Relation](graphene.gif)
 
-
+![Graphene Dispersion Relation](https://github.com/user-attachments/assets/f24ae197-143a-4d10-a89f-811d7866d3e2)
 
 # citations
 
