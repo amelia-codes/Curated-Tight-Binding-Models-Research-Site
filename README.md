@@ -1,9 +1,7 @@
 # Curated Tight Binding Models Research Site
 
+![Graphene Dispersion Relation](https://github.com/user-attachments/assets/79e3e6b8-a970-49d9-89a2-58d8a16f194a)
 
-
-
-![Graphene Dispersion Relation](https://github.com/user-attachments/assets/f24ae197-143a-4d10-a89f-811d7866d3e2)
 
 # citations
 
