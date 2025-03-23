@@ -2,6 +2,7 @@
 
 ![Graphene Dispersion Relation](https://github.com/user-attachments/assets/79e3e6b8-a970-49d9-89a2-58d8a16f194a)
 
+![A1 Dispersion Relation](https://github.com/user-attachments/assets/f0b13a1c-e676-4bd1-9fb4-49e8bcf205fa)
 
 # citations
 
