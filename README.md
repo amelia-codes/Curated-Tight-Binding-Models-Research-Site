@@ -16,6 +16,16 @@ B1 Dispersion Relation<br/>
 ![B2 Dispersion Relation](https://github.com/user-attachments/assets/9accc0be-7896-4958-8727-966b25e5d7a8)<br/>
 B2 Dispersion Relation<br/>
 
+Dirac cones
+a=-pi/2
+b=-pi/2
+c=0
+
+Dirac cone 2
+a=pi/2
+b=pi/2
+c=0
+
 # Citations
 
 https://www.semanticscholar.org/paper/Type-III-and-Tilted-Dirac-Cones-Emerging-from-Flat-Mili%C4%87evi%C4%87-Montambaux/38b2bab9af1d5a17dfd7279a962bf7883f5d587f
