@@ -1,6 +1,10 @@
 # Curated Tight Binding Models Research Site
 
-# D6 Symmetry
+# Poster (8th annual UH-LSU-TAMU Undergraduate Mathematics research Conference)
+[Curated_Tight_Binding_Models_Poster.pdf](https://github.com/user-attachments/files/19432346/Curated_Tight_Binding_Models_Poster.pdf)
+
+
+# D6 Symmetry - fix angles
 
 ![Graphene Dispersion Relation](https://github.com/user-attachments/assets/79e3e6b8-a970-49d9-89a2-58d8a16f194a) <br/>
 Graphene Dispersion Relation<br/>
