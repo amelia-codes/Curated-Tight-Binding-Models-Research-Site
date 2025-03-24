@@ -1,6 +1,6 @@
 # Curated Tight Binding Models Research Site
 
-# Poster (8th annual UH-LSU-TAMU Undergraduate Mathematics research Conference)
+# Poster (8th annual UH-LSU-TAMU Undergraduate Mathematics research Conference) (NSF)
 [Curated_Tight_Binding_Models_Poster.pdf](https://github.com/user-attachments/files/19432346/Curated_Tight_Binding_Models_Poster.pdf)
 
 
